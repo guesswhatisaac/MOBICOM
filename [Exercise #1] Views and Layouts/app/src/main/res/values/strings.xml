@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Exercise 1 - Views and Layouts</string>
+
+    <string name="Name">Fort Santiago</string>
+
+    <string name="InfoTtl">INFORMATION</string>
+    <string name="InfoCont">Fort Santiago is primarily known for its historical significance, particularly as the site where the Philippine national hero, Jose Rizal, was imprisoned before his execution in 1896.</string>
+
+    <string name="WhereTtl">WHERE</string>
+    <string name="WhereCont">Intramuros, Manila</string>
+
+    <string name="EstablishedTtl">ESTABLISHED</string>
+    <string name="EstCont">1593</string>
+
+    <string name="TypeTtl">TYPE</string>
+    <string name="TypeCont">Fort</string>
+</resources>
