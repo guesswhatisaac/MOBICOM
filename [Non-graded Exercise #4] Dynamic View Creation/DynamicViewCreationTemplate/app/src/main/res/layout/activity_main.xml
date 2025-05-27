@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingLeft="16sp"
+    android:paddingTop="32sp"
+    android:paddingRight="16sp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/instructionsTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Please enter your details"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/firstNameEtv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter first name"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/lastNameEtv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter last name"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/addBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ADD" />
+
+    <TextView
+        android:id="@+id/labelTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16sp"
+        android:text="Output"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/nameListLl"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="16sp"
+        android:orientation="vertical"/>
+
+</LinearLayout>
