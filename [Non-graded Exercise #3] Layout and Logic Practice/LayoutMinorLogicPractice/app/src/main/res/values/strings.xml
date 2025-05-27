@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Layout + Minor Logic Practice</string>
+    <string name="hello_world_text">Hello World!</string>
+    <string name="my_button_text">Click Me</string>
+
+
+    <string name="course_name_text">MOBICOM \nMobile Development</string>
+    <string name="course_section15_text">S15</string>
+    <string name="course_section16_text">S16</string>
+
+    <string name="course_section15_sched_text">TH 12:45 - 14:15</string>
+    <string name="course_section16_sched_text">T 12:45 - 14:15 | H 14:30 - 16:00</string>
+
+
+    <string name="course_delivery">Online Delivery</string>
+
+</resources>
